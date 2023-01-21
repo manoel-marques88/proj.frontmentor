@@ -1,0 +1,58 @@
+#caixa{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+   
+}
+
+#coluna1{
+    background: rgb(41, 42, 104);
+    height: 300px;
+    width: 300px; 
+    
+    
+    
+  }
+  
+  #coluna2{
+    background:rgb(34, 34, 83);
+    height: 300px;
+    width: 300px;  
+  }
+
+  img{
+    width: 300px;
+    height: 300px;
+    opacity: 0.5;
+  }
+
+  #coluna1 h1, ul {
+    color: white;
+  
+  }
+
+  ul{
+    list-style: none;
+    
+  }
+
+  span{
+    color: blueviolet;
+  }
+
+  p{
+    color: darkgray;
+  }
+
+  li{
+    float: left;
+    margin: 5px;
+    font-size: 18px;
+  }
+
+  #conteudo{
+    text-align: center;
+    margin: 31px 0px;
+  }
+
